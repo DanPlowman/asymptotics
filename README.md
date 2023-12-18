@@ -16,6 +16,6 @@ I have done the first one for you, as an example.
 | $f(n)= 10n + 3\log_{15} n$ |             | $g(n)= 4n - 2\log_2 n$ |
 | $f(n) = 2n^5$              |             | $g(n) = 5n^2$          |
 | $f(n)=\log_{10} \left(n^{10}\right)$ |  | $g(n)=n$ |
-| f(n)= 4n^5 $ |  | $g(n)= 5n^4$ |
-| f(n) = 10^{256}$ |  | $g(n) = \log n$ |
-| f(n)= n^2 $ |  | $g(n)= 2^n$ |
+| $f(n)= 4n^5 $ |  | $g(n)= 5n^4$ |
+| $f(n) = 10^{256}$ |  | $g(n) = \log n$ |
+| $f(n)= n^2 $ |  | $g(n)= 2^n$ |
